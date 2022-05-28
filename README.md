@@ -45,3 +45,4 @@ NOTES :
  --------------------------------------------------  WARNING ---------------------------------------------------
  HAVING A GPU MAKES EVERYTHING GOES FAST ...... HAVING ERRORS ON THE KERAS LIBRARY IN THE INCLUDE ISN'T AN ISUUE IT
  WILL JUST HAPPEN IF YOU DON'T HAVE GPU
+ -------------------- NOTE ---------------------------------- THIS PROJECT IS STILL UNDERWOKING AND WILL BE UPDATED FREQUENTLY AND IT'S NOT THE lAST VERSION OF IT THIS IS JUST A DEMO
